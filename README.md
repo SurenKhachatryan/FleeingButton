@@ -1,8 +1,8 @@
 # FleeingButton
 Fleeing Button in C#
 
-![](https://github.com/KhachatryanSuren/FleeingButton/blob/master/FleeingButton.gif)
+![](https://github.com/SurenKhachatryan/FleeingButton/blob/master/FleeingButton.gif)
 
 #Code
 
-![](https://github.com/KhachatryanSuren/FleeingButton/blob/master/Code.png)
+![](https://github.com/SurenKhachatryan/FleeingButton/blob/master/Code.png)
