@@ -23,8 +23,8 @@ namespace FleeingButton
         private void button1_MouseMove(object sender, MouseEventArgs e)
         {
             Random rnd = new Random();
-            var width = rnd.Next(this.ClientSize.Width - button1.Size.Width);
-            var height = rnd.Next(30, (this.ClientSize.Height) - button1.Size.Height);
+            var width = rnd.Next(ClientSize.Width - button1.Size.Width);
+            var height = rnd.Next(30, (ClientSize.Height) - button1.Size.Height);
             button1.Location = new Point(width, height);
         }
     }
